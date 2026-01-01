@@ -30,7 +30,22 @@ None registered yet.
 ---
 
 ## Shared Skills
-None registered yet.
+
+### Automated Changelog Generation
+
+Description:  
+Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.
+
+When to use:  
+Use this skill whenever generating:
+- Release notes
+- Product changelogs
+- Version update summaries
+- Customer-facing update announcements
+- Git-based change documentation
+
+Skill URL:  
+https://raw.githubusercontent.com/redmoon0x/skills/refs/heads/main/changelog.md
 
 ---
 
