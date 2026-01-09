@@ -24,6 +24,23 @@ https://raw.githubusercontent.com/redmoon0x/skills/refs/heads/main/frontendui.md
 
 ---
 
+### Design System Extractor
+
+Description:  
+Extracts comprehensive design patterns from reference pages and generates reusable DESIGN_SYSTEM.md specifications. Documents typography, colors, spacing, components, responsive patterns, assets, and code conventions to maintain consistency across projects.
+
+When to use:  
+Use this skill whenever:
+- You've created a well-crafted page and want to maintain consistency
+- You need to document design patterns for reuse
+- You want to extract a design system from existing code
+- You're standardizing styling across a project
+
+Skill URL:  
+https://raw.githubusercontent.com/redmoon0x/skills/refs/heads/main/Design%20System%20Extractor.md
+
+---
+
 ## Backend Skills
 None registered yet.
 
@@ -34,7 +51,7 @@ None registered yet.
 ### Automated Changelog Generation
 
 Description:  
-Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.
+Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns h[...]
 
 When to use:  
 Use this skill whenever generating:
@@ -54,4 +71,3 @@ https://raw.githubusercontent.com/redmoon0x/skills/refs/heads/main/changelog.md
 - Skills must be fetched from their URLs before coding
 - All generated code must follow the active skills
 - Each code block must reference the skill it follows
-
